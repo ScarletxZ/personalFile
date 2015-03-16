@@ -1,3 +1,4 @@
+/* Created by ScarletxZ, all rights reserved */
 $(function() {
  var articlename = $('#title').val();
  var createdate = $('#date').val();
