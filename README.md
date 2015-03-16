@@ -1,1 +1,1 @@
-My archives. Scripts here is free to use, this is just a little archive for what I want to write for. 
+My archives. Do read the terms if you want to use the scripts that are provided here.
