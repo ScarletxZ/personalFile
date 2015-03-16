@@ -1,3 +1,4 @@
+# Created by ScarletxZ, all rights reserved
 <?php
 # Cookie framework for PHP
 # bakeCookie(name,value,time) - create a new cookie
