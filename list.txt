@@ -1,0 +1,101 @@
+For all of you that can guess what's this correctly, you get lollipops. #...
+---- Classes ----
+This is classes. 
+1. Soldier
+2. Monk
+3. Paladin
+4. Spellblade
+5. Samurai
+6. Archer
+7. Thief
+8. Priestess
+9. Witch
+10. Sage
+
+---- Skills --- 
+This is skills. 
+
+1. Attack
+2. Guard
+3. Dual Attack
+4. Double Attack
+5. Triple Attack
+6. Escape
+7. Wait
+8. Fire Breath
+9. Ice Breath
+10. Shock
+11. Poison Cloud
+12. Dark Cloud
+13. Forget Cloud
+14. Sonic Wave
+15. Confusion Song
+16. Sleep Breath
+17. Sleep Pollen
+18. Paralyze Breath
+19. Paralyze Stare
+20. Sweep Kick
+21. Body Slam
+22. Shout
+23. Vampire
+24. Meditate
+25. Unknown Data.
+26. Heal
+27. Heal II
+28. Heal III
+29. Recovery
+30. Recovery II
+31. Cure
+32. Cure II
+33. Raise
+34. Raise II
+35. Poison
+36. Blind
+37. Silence
+38. Confuse
+39. Sleep
+40. Paralyze
+41. Breath Weapon
+42. Breath Armour
+43. Divine Breath
+44. Quick Move
+45. Curse Weapon
+46. Curse Armour
+47. Divine Curse
+48. Slow Move
+49. Life Drain
+50. Mana Drain
+51. Fire
+52. Fire II
+53. Flame
+54. Flame II
+55. Ice
+56. Ice II
+57. Blizzard
+58. Blizzard II
+59. Thunder
+60. Thunder II
+61. Spark
+62. Spark II
+63. Water
+64. Wave
+65. Stone
+66. Quake
+67. Wind
+68. Tornado
+69. Saint
+70. Starlight
+
+---- Weapon ----
+This is weapons.
+
+1. Axe
+2. Claw
+3. Spear
+4. Sword
+5. Katana
+6. Bow
+7. Dagger
+8. Hammer
+9. Staff
+10. Gun
