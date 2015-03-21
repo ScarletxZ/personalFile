@@ -85,6 +85,62 @@ This is skills.
 68. Tornado
 69. Saint
 70. Starlight
+71. Shade
+72. Darkness
+73. Burst
+74. Nuclear
+75. ----
+76. Fire Weapon
+77. Ice Weapon
+78. Thunder Weapon
+79. -----
+80. Strong Attack
+81. Cleave 
+82. Berserker's Roar
+83. Berserker's Dance
+84. Giant Rampage
+85. Tackle
+86. Chakra
+87. Tiger Stance
+88. No Shadow Kick
+89. Claw Dance
+90. Cover
+91. Provoke
+92. Super Guard
+93. Restrengthen
+94. Zero Storm
+95. Aura Blade
+96. Dispel
+97. Magic Barrier
+98. Reinforce
+99. Radiant Blade
+100. Yoroidoshi
+101. Shintou Mekkyaku
+102. Hassou
+103. Tsubamekaeshi
+104. Ouka Mugen jin
+105. Weapon Break
+106. Armour Break
+107. Zero Shadow
+108. Triple Shot
+109. Thousand Arrows
+110. Vanish
+111. Flare
+112. Thief's Luck
+113. Assasin's Edge
+114. Valiant Edge
+115. Spirit's Blessing
+116. Fairy's Breath
+117. God's Will
+118. Goddess' Embrace
+119. Magic Reflect
+120. Enhance Spell
+121. Nightmare
+122. Magic Torrent
+123. Magic Pulse
+124. Spell Resonance
+125. Mana Barrier
+126. Mystic Spell
 
 ---- Weapon ----
 This is weapons.
