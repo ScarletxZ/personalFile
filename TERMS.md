@@ -7,4 +7,6 @@ I have license to for my scripts, license as the author, so please, please, and 
 * Those scripts I archived here is used for some websites, so don't copy it without my permission otherwise you'll break the
 author license,
 * Please don't steal those scripts, don't hesitate to contact me if you want to use the script, nor making an exact copy for it,
-* You can use my scripts for reference, remember, for reference only.
+* You can use my scripts for reference, remember, for reference only,
+* Scripts that are marked with [SAMPLE] was free for use as both ways, commercial use and non-commercial,
+* I'll do prefer tutorials and I'll make sure that I've put the copyright at the place. Don't copy it onto your website, forums etc.
