@@ -20,7 +20,20 @@ function runConditionLoops() {
  function conditionLoops(type) {
   conditional = type;
   if(conditional === 'variable') {
-   /* code here.. */
+   function cLVar(varname) {
+    variablename = varname;
+    for(var i=0;i<variablename.length;i++) {
+     /* call here */
+    }
+   }
+  }
+  if(conditional === 'array') {
+   function cLArr(arrname) {
+    arrayname = arrname;
+    for(var i=0;i<arrayname.length;i++) {
+     /* call here */
+    }
+   }
   }
  }
 }
