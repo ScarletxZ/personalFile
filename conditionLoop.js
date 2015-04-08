@@ -20,18 +20,24 @@ function runConditionLoops() {
  function conditionLoops(type) {
   conditional = type;
   if(conditional === 'variable') {
-   function cLVar(varname) {
+   function cLVar(varname,condition,callback) {
     variablename = varname;
-    for(var i=0;i<variablename.length;i++) {
-     /* call here */
+    if(condition) {
+     for(var i=0;i<variablename.length;i++) {
+      callback.call(this,window);
+     }
+    }
     }
    }
   }
   if(conditional === 'array') {
-   function cLArr(arrname) {
+   function cLArr(arrname,condition,callback) {
     arrayname = arrname;
-    for(var i=0;i<arrayname.length;i++) {
-     /* call here */
+    if(condition) {
+     for(var i=0;i<arrayname.length;i++) {
+      callback.call(this,window);
+     }
+    }
     }
    }
   }
