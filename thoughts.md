@@ -29,4 +29,12 @@ if(3 != null) {
 
 What I look for this was a little bug. But mostly I also use == in my projects, because you might want to check the VALUE, not the TYPE. Unless if you want to check the type. then you can find it with ===. oh I forgotten === also check for a same value and both a same type.
 
-it's a real time consuming to understand this concept for me. but it's also fun to understand more concepts and just blah.. dunno. 
+it's a real time consuming to understand this concept for me. but it's also fun to understand more concepts and just blah.. dunno.
+
+Also someone has discovered something.
+He says 'if null means 0 then why wouldn't the script execute?'
+This is an answer for it.:
+
+Did you recognize the difference between null and 3? 3 is a number and null is an object, which means its not the same type. Also, if you try to use == , know this will you, its not the same value. So its useless to have it stay like that.
+
+But I've come up with a new solution. Use this operator === and see the difference between null and 0.
